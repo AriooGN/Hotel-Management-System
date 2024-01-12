@@ -35,17 +35,16 @@
 
 <hr style="width:80%" color="black">
 
-<h3>Login Screen</h3>
-<div align="center"> <img src="https://github.com/AriooGN/HotelDataBase/blob/main/Screenshots/LoginFilled.png"> </a> </div>
+<h3>Login Screens</h3>
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <img src="https://github.com/AriooGN/HotelDataBase/blob/main/Screenshots/LoginFilled.png" alt="Login Screen">
+  <img src="https://github.com/AriooGN/HotelDataBase/blob/main/Screenshots/LoginFilledShowPass.png" alt="Login Screen (Show Password)">
+</div>
 
-<h3>Login Screen (Show Password)</h3>
-<div align="center"> <img src="https://github.com/AriooGN/HotelDataBase/blob/main/Screenshots/LoginFilledShowPass.png"> </a> </div>
-
-<h3>Login Succeful</h3>
-<div align="center"> <img src="https://github.com/AriooGN/HotelDataBase/blob/main/Screenshots/LoginSuccesful.png"> </a> </div>
-
-<h3>Main Menu</h3>
-<div align="center"> <img src="https://github.com/AriooGN/HotelDataBase/blob/main/Screenshots/MainMenu.png"> </a> </div>
+<h3>Login Successful</h3>
+<div align="center">
+  <img src="https://github.com/AriooGN/HotelDataBase/blob/main/Screenshots/LoginSuccesful.png" alt="Login Successful">
+</div>
 
 <h3>Main Menu</h3>
 <div align="center"> <img src="https://github.com/AriooGN/HotelDataBase/blob/main/Screenshots/MainMenu.png"> </a> </div>
