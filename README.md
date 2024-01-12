@@ -56,6 +56,43 @@
 <h3>Queries Menu</h3>
 <div align="center"> <img src="https://github.com/AriooGN/HotelDataBase/blob/main/Screenshots/QueriesMenu.png"> </a> </div>
 
+<h3>Query Results Presented Through TableView</h3>
+<a href="https://github.com/AriooGN/HotelDataBase/blob/main/Screenshots/Queries1.png" target="_blank">
+    <img src="https://github.com/AriooGN/HotelDataBase/blob/main/Screenshots/Queries1.png" alt="Queries 1" style="max-width: 100%; height: auto;">
+</a>
+<a href="https://github.com/AriooGN/HotelDataBase/blob/main/Screenshots/Queries2.png" target="_blank">
+    <img src="https://github.com/AriooGN/HotelDataBase/blob/main/Screenshots/Queries2.png" alt="Queries 2" style="max-width: 100%; height: auto;">
+</a>
+
+
+
+<h3>Data Insert Forms</h3>
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 10px;">
+    <a href="https://github.com/AriooGN/HotelDataBase/blob/main/Screenshots/Passenger_Info.png" target="_blank">
+        <img src="https://github.com/AriooGN/HotelDataBase/blob/main/Screenshots/Passenger_Info.png" alt="Passenger Info Form" style="max-width: 100%; height: auto;">
+    </a>
+    <a href="https://github.com/AriooGN/HotelDataBase/blob/main/Screenshots/PersonnelForm.png" target="_blank">
+        <img src="https://github.com/AriooGN/HotelDataBase/blob/main/Screenshots/PersonnelForm.png" alt="Personnel Form" style="max-width: 100%; height: auto;">
+    </a>
+    <a href="https://github.com/AriooGN/HotelDataBase/blob/main/Screenshots/Personnel_Info.png" target="_blank">
+        <img src="https://github.com/AriooGN/HotelDataBase/blob/main/Screenshots/Personnel_Info.png" alt="Personnel Info" style="max-width: 100%; height: auto;">
+    </a>
+    <a href="https://github.com/AriooGN/HotelDataBase/blob/main/Screenshots/ResInfoForm.png" target="_blank">
+        <img src="https://github.com/AriooGN/HotelDataBase/blob/main/Screenshots/ResInfoForm.png" alt="Reservation Info Form" style="max-width: 100%; height: auto;">
+    </a>
+    <a href="https://github.com/AriooGN/HotelDataBase/blob/main/Screenshots/RoomForm.png" target="_blank">
+        <img src="https://github.com/AriooGN/HotelDataBase/blob/main/Screenshots/RoomForm.png" alt="Room Form" style="max-width: 100%; height: auto;">
+    </a>
+    <a href="https://github.com/AriooGN/HotelDataBase/blob/main/Screenshots/RoomFormDropDown.png" target="_blank">
+        <img src="https://github.com/AriooGN/HotelDataBase/blob/main/Screenshots/RoomFormDropDown.png" alt="Room Form with Dropdown" style="max-width: 100%; height: auto;">
+    </a>
+    <a href="https://github.com/AriooGN/HotelDataBase/blob/main/Screenshots/PaymentForm.png" target="_blank">
+        <img src="https://github.com/AriooGN/HotelDataBase/blob/main/Screenshots/PaymentForm.png" alt="Payment Form" style="max-width: 100%; height: auto;">
+    </a>
+</div>
+
+
+
 <h2>Project Reflection</h2>
 <p>This project was an enlightening journey into the world of GUI development with Tkinter and also marked my first foray into SQL project development. It taught me about the importance of code organization and the intricacies involved in creating a functional and user-friendly interface. Additionally, this project allowed me to apply the principles of database normalization, which I learned throughout my database management class. The experience of organizing and structuring the tables in the database to achieve normalization was both challenging and rewarding, providing a strong foundation in database design.</p>
 
