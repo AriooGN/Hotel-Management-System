@@ -1,10 +1,10 @@
-<h1>HotelDataBase: Hotel Management System</h1>
+<h1>HotelDatabase: Hotel Management System</h1>
 
-<p>Welcome to the HotelDataBase project, a robust application designed to streamline hotel management operations. This project is my initial venture into using Python's Tkinter library for GUI development, focusing on integrating backend processes with an interactive frontend.</p>
+<p>Welcome to the HotelDatabase project, a robust application designed to streamline hotel management operations. This project is my initial venture into using Python's Tkinter library for GUI development, focusing on integrating backend processes with an interactive frontend.</p>
 
 <h2>Introduction</h2>
 
-<p>The HotelDataBase system is tailored for managing various hotel operations. As my first experience with Tkinter, the frontend design was a learning curve, leading to valuable insights into GUI development, although the code organization could have been more streamlined.</p>
+<p>The HotelDatabase system is tailored for managing various hotel operations. As my first experience with Tkinter, the frontend design was a learning curve, leading to valuable insights into GUI development, although the code organization could have been more streamlined.</p>
 
 <h2>Features</h2>
 
